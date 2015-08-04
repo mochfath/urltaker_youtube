@@ -1,0 +1,18 @@
+.paging-button {
+  visibility: hidden;
+}
+
+.button-container {
+  clear: both;
+}
+
+#video-container{
+	width: 100%;
+}
+
+div > img.thumbnail{
+	width: 30%;
+	float: left;
+	margin: 5px;
+	cursor: pointer;
+}
